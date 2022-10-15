@@ -1,0 +1,1503 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container {
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main {
+    height: 800px;
+    background-image: url('../img/main_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.first_logo {
+    margin: 0px auto;
+    display: flex;
+
+}
+
+.wordpress_intensiv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.main_yellow_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 37px;
+    line-height: 24px;
+    color: #F9BF3B;
+    text-align: center;
+}
+
+
+.main_white_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 100%;
+}
+
+.main_text strong {
+    color: #F9BF3B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 28px;
+}
+
+.main_btn {
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    width: 313px;
+    height: 72px;
+    border: #3AB6DA;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.main_btn p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+    text-align: center;
+}
+
+.down_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 70px 0 0 0;
+    text-align: center;
+}
+
+.down_img {
+    margin: 18px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.second_main {
+    background: #EFEFEF;
+    height: 607px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.second_main_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: #252525;
+    text-align: center;
+    margin-top: 80px;
+    display: inline-block;
+}
+
+.yellow_block {
+    background: #F9BF3B;
+    width: 220px;
+    height: 7px;
+    margin: 0 auto;
+}
+
+.second_main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 20px;
+    color: #4A4A4A;
+}
+
+.second_main_container {
+    display: flex;
+    margin: 60px auto;
+    justify-content: space-between;
+}
+
+.second_main_container1 {
+    width: 380px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.second_main_container1 img {
+    width: 342px;
+    height: 201px;
+}
+
+.second_main_container1 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+    color: #4A4A4A;
+}
+
+.optimization {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    height: 600px;
+}
+
+.optimization img {
+    width: 600px;
+    height: 380px;
+
+}
+
+.optim_texts {
+    margin-left: 0px;
+    text-align: center;
+}
+
+.optim_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 30px;
+    color: #299CBD;
+}
+
+.optimization p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+    width: 750px
+}
+
+
+
+.obucheniye {
+    background-image: url('../img/second_bg.jpg');
+    height: 447px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.obucheniye_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: #EFEFEF;
+    display: inline-block;
+}
+
+.obuchen_blocks {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+    width: 1200px;
+}
+
+.block {
+    background: #460D60;
+    border: #460D60;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.block_img img {
+    width: 60px;
+    height: 60px;
+}
+
+.block_osnov2 {
+    display: block;
+}
+
+.block_osnov2 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #EFEFEF;
+    width: 226px;
+}
+
+.block_osnov p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #EFEFEF;
+    width: 226px;
+}
+
+.gift {
+    height: 631px;
+    align-items: center;
+    background: #EFEFEF;
+    margin: 0 auto;
+}
+
+.gift img {
+    margin-top: 90px;
+}
+
+.gift_p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 43px;
+    color: #252525;
+    width: 1140px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.webinar {
+    display: block;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.web_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: #252525;
+}
+
+.webinar img {
+    margin: 30px 0 0 0;
+}
+
+.web_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 20px;
+    color: #4A4A4A;
+}
+
+.finish {
+    height: 50px;
+    background-color: #000000;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.finish_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+    color: #888888;
+    text-align: center;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.modal_content{  
+    position: relative;
+    width: 600px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 4px;
+    overflow-y: auto;
+    justify-content: center;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 15px;
+    height: 500px;
+}
+
+.modal__close{
+    width: 18px;
+    height: 18px;
+    margin-top: 15px;
+    border: 1px black solid;
+}
+
+.modal_header {
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+.modal_title{
+    font-size: 26px;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.modal_header img {
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px 30px 0;
+}
+
+.modal_header button {
+    background: none;
+    border: none;
+}
+
+.inputs {
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+    margin: 10px 0 0 0;
+    border: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(199, 199, 199);
+}
+
+.check_text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 15px auto;
+    align-items: center;
+}
+
+.modal_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.modal_checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+.modal_btn {
+    width: 300px;
+    height: 35px;
+    background-color: blueviolet;
+    border: blueviolet 1px solid;
+    border-radius: 6px;
+    color: rgb(226, 226, 226);
+}
+
+
+
+.modal_button{   
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.modal_btn_content{
+    position: relative;
+    width: 500px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 4px;
+    overflow-y: auto;
+    justify-content: center;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 15px;
+    height: 100px;
+}
+
+.show {
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.fade{
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from{
+        opacity: 0.1;
+    }
+    to{
+        opacity: 1;
+    }
+}
+/* media      //////////////////////////////////////////////////////////////////// кккккккккккккккккккк*/
+
+@media (max-width:1200px) {
+    .container {
+        max-width: 993px;
+    }
+
+    .main_yellow_title {
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+
+    .main_text {
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .main_btn {
+        width: 220px;
+        height: 65px;
+        margin: 30px auto;
+    }
+
+    .main_btn p {
+        font-size: 14px;
+    }
+
+    .main {
+        height: 740px;
+    }
+
+    .second_main_container1 img {
+        width: 200px;
+        height: 120px;
+    }
+
+    .second_main_title {
+        font-size: 24px;
+    }
+
+    .yellow_block {
+        width: 190px;
+        height: 5px;
+    }
+
+    .second_main_text {
+        font-size: 20px;
+        line-height: 10px;
+    }
+
+    .second_main_container1 p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .second_main {
+        height: 500px;
+    }
+
+    .optimization img {
+        width: 430px;
+        height: 210px;
+    }
+
+    .optim_title {
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .optimization p {
+        font-size: 14px;
+        line-height: 20px;
+        width: 460px;
+    }
+
+    .optimization {
+        height: 450px;
+    }
+
+    .obucheniye_title {
+        font-size: 26px;
+        line-height: 23px;
+    }
+
+    .block {
+        width: 95px;
+        height: 95px;
+    }
+
+    .block_img img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .obuchen_blocks {
+        width: 900px;
+        margin: 50px auto;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .block_osnov p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .block_osnov2 {
+        display: none;
+    }
+
+    .obucheniye {
+        height: 310px;
+    }
+
+    .gift img {
+        width: 90px;
+        height: 100px;
+        margin: 30px auto;
+    }
+
+    .gift_p {
+        font-size: 21px;
+        line-height: 30px;
+        margin: 0 auto;
+        width: 700px;
+    }
+
+    .gift {
+        height: 390px;
+    }
+
+    .webinar img {
+        width: 240px;
+        height: 130px;
+    }
+
+    .web_title {
+        font-size: 26px;
+        line-height: 20px;
+    }
+
+    .web_text {
+        font-size: 19px;
+        line-height: 10px;
+    }
+
+    .webinar {
+        height: 320px;
+    }
+
+    .finish_text {
+        font-size: 12px;
+        line-height: 27px;
+    }
+    
+    .modal_content{  
+        position: relative;
+        width: 500px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 30px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 450px;
+    }
+    
+    .modal__close{
+        width: 18px;
+        height: 18px;
+        margin-top: 15px;
+        border: 1px black solid;
+    }
+    
+    .modal_header {
+        display: flex;
+        justify-content: center;
+        margin-left: 30px;
+    }
+    
+    .modal_title{
+        font-size: 19px;
+        width: 350px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .modal_header img {
+        width: 30px;
+        height: 30px;
+        margin: 0px 10px 30px 0;
+    }
+    
+    .modal_header button {
+        background: none;
+        border: none;
+    }
+    
+    .inputs {
+        width: 350px;
+        height: 45px;
+        border-radius: 10px;
+        margin: 10px 0 0 0;
+        border: none;
+        color: rgb(0, 0, 0);
+        background-color: rgb(199, 199, 199);
+    }
+    
+    .check_text {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 15px auto;
+        align-items: center;
+    }
+    
+    .modal_text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+    }
+    
+    .modal_checkbox {
+        width: 15px;
+        height: 15px;
+    }
+    
+    .modal_btn {
+        width: 300px;
+        height: 35px;
+        background-color: blueviolet;
+        border: blueviolet 1px solid;
+        border-radius: 6px;
+        color: rgb(226, 226, 226);
+    }
+    
+    
+    
+    .modal_button{   
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1050;
+        display: none;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: rgba(0, 0, 0, .5)
+    }
+    
+    .modal_btn_content{
+        position: relative;
+        width: 500px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 100px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 100px;
+    }
+    
+}
+
+
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width:992px) {
+    .container {
+        max-width: 772px;
+    }
+
+    .main_yellow_title {
+        font-size: 24px;
+        line-height: 10px;
+    }
+
+    .main_white_title {
+        font-size: 54px;
+        line-height: 10px;
+    }
+
+    .main_text {
+        font-size: 15px;
+        line-height: 17px;
+        width: 650px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .main_btn {
+        width: 190px;
+        height: 50px;
+    }
+
+    .main_btn p {
+        font-size: 12.3px;
+    }
+
+    .down_text {
+        font-size: 13px;
+        line-height: 11px;
+    }
+
+    .down_img {
+        margin: 24px auto;
+        width: 25px;
+        height: 17px;
+    }
+
+    .first_logo {
+        width: 65px;
+        height: 57px;
+    }
+
+    .main {
+        height: 600px;
+    }
+
+    .optimization p {
+        font-size: 12px;
+        line-height: 20px;
+        width: 350px;
+    }
+
+    .yellow_block {
+        width: 170px;
+        height: 3px;
+    }
+
+    .block {
+        width: 80px;
+        height: 80px;
+    }
+
+    .block_img img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .block_osnov p {
+        font-size: 13px;
+        line-height: 20px;
+        width: 160px;
+    }
+
+    .obuchen_blocks {
+        justify-content: center;
+        margin: 50px auto;
+        width: 700px;
+    }
+
+    .block_osnov2 {
+        display: block;
+    }
+
+    .block_osnov2 p {
+        font-size: 13px;
+        width: 160px;
+    }
+
+    .gift_p {
+        font-size: 19px;
+        line-height: 25px;
+        margin: 0 auto;
+        width: 660px;
+    }
+
+    .gift {
+        height: 350px;
+    }
+
+    .webinar img {
+        width: 210px;
+        height: 110px;
+    }
+
+    .web_title {
+        font-size: 24px;
+    }
+
+    .webinar {
+        height: 300px;
+    }
+
+    .finish_text {
+        font-size: 11px;
+    }
+    
+    .modal_content{  
+        position: relative;
+        width: 450px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 17px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 365px;
+    }
+    
+    
+    
+    .modal_header {
+        display: flex;
+        justify-content: center;
+        margin-left: 30px;
+    }
+    
+    .modal_title{
+        font-size: 14px;
+        width: 300px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .modal__close img {
+        width: 18px;
+        height: 18px;
+    }
+    
+    .modal_header button {
+        background: none;
+        border: none;
+    }
+    
+    .inputs {
+        width: 350px;
+        height: 35px;
+        border-radius: 10px;
+        margin: 10px 0 0 0;
+        border: none;
+        color: rgb(0, 0, 0);
+        background-color: rgb(199, 199, 199);
+    }
+    
+    .check_text {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 15px auto;
+        align-items: center;
+    }
+    
+    .modal_text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+    }
+    
+    .modal_checkbox {
+        width: 15px;
+        height: 15px;
+    }
+    
+    .modal_btn {
+        width: 300px;
+        height: 35px;
+        background-color: blueviolet;
+        border: blueviolet 1px solid;
+        border-radius: 6px;
+        color: rgb(226, 226, 226);
+    }
+    
+    
+    
+    .modal_button{   
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1050;
+        display: none;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: rgba(0, 0, 0, .5)
+    }
+    
+    .modal_btn_content{
+        position: relative;
+        width: 500px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 100px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 100px;
+    }
+    
+    .show {
+        display: block;
+    }
+    
+    .hide{
+        display: none;
+    }
+    
+    .fade{
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+}
+
+
+
+
+/* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..............................ю.//////////////////////////// */
+
+@media (max-width:771px) {
+    .container {
+        max-width: 482px;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .first_logo {
+        width: 48px;
+        height: 40px;
+    }
+
+    .wordpress_intensiv {
+        font-size: 11px;
+        line-height: 3px;
+    }
+
+    .main_yellow_title {
+        font-size: 17px;
+        line-height: 8px;
+    }
+
+    .main_white_title {
+        font-size: 40px;
+    }
+
+    .main_text {
+        font-size: 13px;
+        line-height: 17px;
+        width: 400px;
+        text-align: center;
+        margin: 20px auto;
+    }
+
+    .main_text strong {
+        font-size: 17px;
+    }
+
+    .main_btn {
+        width: 160px;
+        height: 40px;
+    }
+
+    .main_btn p {
+        font-size: 10.2px;
+    }
+
+    .down_text {
+        font-size: 11px;
+        line-height: 1px;
+    }
+
+    .down_img {
+        margin: 24px auto;
+        width: 18px;
+        height: 12px;
+    }
+
+    .main {
+        height: 530px;
+    }
+
+    .second_main_title {
+        font-size: 18px;
+        line-height: 5px;
+        margin-top: 50px;
+    }
+
+    .yellow_block {
+        width: 140px;
+        height: 2.5px;
+    }
+
+    .second_main_text {
+        font-size: 13px;
+    }
+
+    .second_main {
+        height: 800px;
+        display: block;
+        margin: 0px auto;
+    }
+
+    .second_main_container {
+        display: block;
+        justify-content: center;
+        text-align: center;
+        margin: 30px auto;
+    }
+
+    .second_main_container1 {
+        margin: 40px auto;
+        text-align: center;
+    }
+
+    .optimization {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        height: 670px;
+    }
+
+    .optimization img {
+        width: 380px;
+        height: 200px;
+    }
+
+    .optim_title {
+        font-size: 20px;
+    }
+
+    .optimization p {
+        font-size: 12px;
+        line-height: 20px;
+        width: 350px;
+        margin: 0px auto;
+    }
+
+    .obucheniye {
+        display: block;
+        justify-content: center;
+        margin: 0 auto;
+        text-align: center;
+        height: 845px;
+    }
+
+    .obuchen_blocks {
+        display: block;
+        margin: 0 auto;
+        justify-content: center;
+        text-align: center;
+        width: 300px;
+    }
+
+    .block_osnov {
+        text-align: center;
+        margin: 25px auto;
+        display: block;
+        justify-content: center;
+    }
+
+    .block_osnov p {
+        margin: 0px auto;
+    }
+
+    .block_osnov2 p {
+        margin: 0 auto;
+    }
+
+    .obucheniye_title {
+        font-size: 21px;
+    }
+
+    .gift img {
+        width: 70px;
+        height: 80px;
+        margin: 30px auto;
+    }
+
+    .gift_p {
+        font-size: 15px;
+        width: 430px;
+    }
+
+    .gift {
+        height: 310px;
+    }
+
+    .webinar img {
+        width: 160px;
+        height: 90px;
+    }
+
+    .web_title {
+        font-size: 21px;
+    }
+
+    .web_text {
+        font-size: 17px;
+        line-height: 5px;
+    }
+
+    .webinar {
+        height: 240px;
+    }
+
+    .finish_text {
+        font-size: 9px;
+    }
+}
+
+
+/* ?///////////////////////////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width:480px) {
+    .container {
+        max-width: 300px;
+    }
+
+    .first_logo {
+        width: 35px;
+        height: 30px;
+    }
+
+    .wordpress_intensiv {
+        font-size: 9px;
+    }
+
+    .main_yellow_title {
+        font-size: 12px;
+        line-height: 13px;
+    }
+
+    .main_white_title {
+        font-size: 40px;
+        line-height: 1px;
+    }
+
+    .main_text {
+        font-size: 11px;
+        line-height: 15px;
+        width: 290px;
+    }
+
+    .main_text strong {
+        font-size: 13px;
+    }
+
+    .main_btn {
+        width: 120px;
+        height: 35px;
+    }
+
+    .main_btn p {
+        font-size: 7.4px;
+        font-style: normal;
+    }
+
+    .main_white_title {
+        font-size: 33px;
+        line-height: 1px;
+    }
+
+    .down_text {
+        font-size: 10px;
+    }
+
+    .down_img {
+        margin: 18px auto;
+        width: 15px;
+        height: 10px;
+    }
+
+    .main {
+        height: 480px;
+    }
+
+    .second_main_title {
+        font-size: 13.5px;
+    }
+
+    .yellow_block {
+        width: 100px;
+        height: 2px;
+    }
+
+    .second_main_text {
+        font-size: 10px;
+    }
+
+    .second_main_container1 img {
+        width: 140px;
+        height: 80px;
+    }
+
+    .second_main_container1 {
+        margin: 40px auto;
+        text-align: center;
+        width: 200px;
+    }
+
+    .second_main_container1 p {
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    .second_main {
+        height: 660px;
+    }
+
+    .optimization img {
+        width: 240px;
+        height: 150px;
+        margin: 40px auto;
+    }
+
+    .optimization p {
+        font-size: 9px;
+        line-height: 18px;
+        width: 260px;
+        margin: 0px auto;
+    }
+
+    .optimization {
+        height: 590px;
+    }
+
+    .obucheniye_title {
+        font-size: 14px;
+    }
+
+    .block {
+        width: 65px;
+        height: 65px;
+    }
+
+    .block_osnov p {
+        font-size: 10px;
+        line-height: 18px;
+        width: 150px;
+    }
+
+    .block_osnov2 p {
+        font-size: 10px;
+        line-height: 18px;
+        width: 150px;
+    }
+
+    .block_img img {
+        width: 28px;
+        height: 28px;
+    }
+
+    .obucheniye {
+        height: 650px;
+    }
+
+    .gift img {
+        width: 50px;
+        height: 60px;
+        margin: 23px;
+    }
+
+    .gift_p {
+        font-size: 10px;
+        width: 280px;
+    }
+
+    .gift {
+        height: 270px;
+    }
+
+    .webinar img {
+        width: 110px;
+        height: 65px;
+        margin: 20px auto;
+    }
+
+    .web_title {
+        font-size: 16px;
+    }
+
+    .optim_title {
+        font-size: 15px;
+    }
+
+    .web_text {
+        font-size: 11px;
+        line-height: 8px;
+    }
+
+    .finish_text {
+        font-size: 7px;
+    }
+
+    .modal_content{  
+        position: relative;
+        width: 270px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 17px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 365px;
+    }
+    
+    
+    
+    .modal_header {
+        display: flex;
+        justify-content: center;
+        margin-left: 20px;
+    }
+    
+    .modal_title{
+        font-size: 12px;
+        width:200px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .modal__close img {
+        width: 15px;
+        height: 15px;
+    }
+    
+    .modal_header button {
+        background: none;
+        border: none;
+    }
+    
+    .inputs {
+        width: 200px;
+        height: 30px;
+        border-radius: 10px;
+        font-size: 12px;
+        margin: 10px 0 0 0;
+        border: none;
+        color: rgb(0, 0, 0);
+        background-color: rgb(199, 199, 199);
+    }
+    
+    .check_text {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 15px auto;
+        align-items: center;
+        width: 200px;
+    }
+    
+    .modal_text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+    }
+    
+    .modal_checkbox {
+        width: 15px;
+        height: 15px;
+    }
+    
+    .modal_btn {
+        width: 230px;
+        height: 35px;
+        background-color: blueviolet;
+        border: blueviolet 1px solid;
+        border-radius: 6px;
+        color: rgb(226, 226, 226);
+        font-size: 15px;
+    }
+    
+    .modal_button{   
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1050;
+        display: none;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: rgba(0, 0, 0, .5)
+    }
+    
+    .modal_btn_content{
+        position: relative;
+        width: 260px;
+        font-size: 14px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 4px;
+        overflow-y: auto;
+        justify-content: center;
+        margin: 100px auto;
+        text-align: center;
+        border-radius: 15px;
+        height: 80px;
+    }
+}
